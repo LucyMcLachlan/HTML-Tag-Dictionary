@@ -1,0 +1,55 @@
+HTML TAG DICTIONARY
+
+
+a : "anchor" turns text into a link
+	Attributes: href
+	Ex; <a href="link"> link </a>
+	
+h1: Header tag, mkes text large and puts it on a seperate line
+	Attributes: None
+	Ex:<h1> Hey</h1>
+	
+h2: Sub Header tag, same as header but slightly smaller
+	Attributes: None
+	Ex:<h2> Hey</h2>
+	
+h3: Sub Sub Header tag, same as h2 but slightly smaller
+	Attributes: None
+	Ex:<h3> Hey</h3>
+	
+h4: Sub Sub Sub Header tag, same as h3 but slightly smaller
+	Attributes: None
+	Ex:<h4> Hey</h4>
+	
+h5: Sub Sub Sub Sub Header tag, same as h4 but slightly smaller
+	Attributes: None
+	Ex:<h5> Hey</h5>
+	
+h6 : Smallest sub header tag
+	Attributes: None
+	Ex:<h6> Hey</h6>
+	
+img: allows you to imbed images,
+	Attributes: src
+	Ex: <img src="lorem ipsum"> 
+
+li: list item, tells ol or ul tags that they're seperate items
+	Attributes: None
+	Ex: <li> Hey</li>
+	
+ol: odered list, puts li in list that's numbered
+	Attributes: None
+	Ex: <ol>
+			<li>1</li>
+			<li>2</li>
+		</ol>
+p: seperates paragraphs, puts text on seperate lines
+	Attributes: None
+	Ex: <p> paragraph </p>
+	
+ul: unordered list, ol but with bullet points
+	Attributes: None
+	Ex: <ul>
+			<li>1</li>
+			<li>2</li>
+		</ul>
