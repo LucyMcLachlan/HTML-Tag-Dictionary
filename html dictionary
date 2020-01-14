@@ -34,7 +34,7 @@ HTML TAG DICTIONARY
 	Attributes: None
 	Ex:<h6> Hey</h6>
 	
-<head>: contains things for browser to think about (edits tabs)
+<head>: contains things for browser to think about 
 	Attributes: None
 	Ex: <head> title </head>
 	
